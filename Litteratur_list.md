@@ -6,7 +6,7 @@
 
 #### 3) From Perception Threshold to Ion Channels-A Computational Study, Biophys J. 2019, 117:281-295. Jenny Tigerholm, Aida Hejlskov Poulsen, Ole Kæseler Andersen, Carsten Dahl Mørch 
 
-#### 4) Voltage-Gated Sodium Channels Regulating Action Potential Generation in Itch-, Nociceptive-, and Low-Threshold Mechanosensitive Cutaneous C-Fibers. Jurcakova D, Ru F, Kollarik
+#### 4) Voltage-Gated Sodium Channels Regulating Action Potential Generation in Itch-, Nociceptive-, and Low-Threshold Mechanosensitive Cutaneous C-Fibers. Danica Jurcakova, Fei Ru, Marian Kollarik, Hui Sun, Jeffrey Krajewski, Bradley Undem
 
 ## Concepts to understand 
 
