@@ -10,10 +10,11 @@
 
 ## Concepts to understand 
 
-#### pheripheral nerves
-#### nociceptors
-#### Excitibility
-#### Action potetnial 
-#### voltage-gated ion channels
-#### subpypes of sodium channels
-#### Peception thrshold trsching experiments 
+#### Peripheral nerves
+#### Nociceptors
+#### Excitability
+#### Action potential 
+#### Voltage-gated ion channels
+#### subtypes of sodium channels
+#### Perception threshold tracking experiments 
+#### Painful diabetic neuropathy 
